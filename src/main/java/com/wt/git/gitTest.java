@@ -14,5 +14,6 @@ public class gitTest {
         System.out.println("git test update2 merge normal");
         System.out.println("master test");
 
+        System.out.println("hot_fix test");
     }
 }
